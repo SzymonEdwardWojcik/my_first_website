@@ -127,6 +127,12 @@ button {
     width: 100px;
     height: 30px;
     float: none;
+    background-color: #DDD;
+    color: #222;
+}
+
+button:hover {
+    color: #777;
 }
 
 /* SIDE TEXT */
